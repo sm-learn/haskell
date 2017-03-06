@@ -12,7 +12,8 @@
 
 --
 - Resources
-1. [Leann Haskell in Y mins](https://learnxinyminutes.com/docs/haskell/)
+
+1. [Learn Haskell in Y mins](https://learnxinyminutes.com/docs/haskell/)
 --
 - Functions
 ```haskell
