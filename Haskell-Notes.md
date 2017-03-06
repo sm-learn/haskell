@@ -6,3 +6,14 @@
   fac n = if n == 0 then 1
           else n * fac(n -1)
 ```
+- All functions in Haskell are curried. For example, when a function of three arguments receives less than three arguments, it yields a partially applied function, which, when given additional arguments, yields yet another function or the resulting value if all the arguments were supplied.
+
+```haskell
+g :: Int -> Int -> Int -> Int
+g x y z = x + y + z
+
+h :: Int -> Int
+h = g 2 3
+```
+
+
