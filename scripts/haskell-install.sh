@@ -3,7 +3,7 @@
 #
 # The base script will install the following libs
 #
-# Kaskell Platform
+# Haskell Platform and haskellmode-vim plugin for editing
 #  
 # Copyright@2014 smtechnocrat
 # Author: smtechnocrat
@@ -12,4 +12,6 @@
 ################################################################## 
 # Install and Haskell Platform
 sudo apt-get install haskell-platform
-
+#Install haskell-mode plaugin for vim
+cd ~/.vim/bundle
+git clone https://github.com/lukerandall/haskellmode-vim
