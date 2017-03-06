@@ -7,6 +7,7 @@
   Build tools 
     - ghc to compile
     - runghc runs ahaskell progran like a script
+    - haskell API reference - [Hoogle](https://www.haskell.org/hoogle/)
 
 
 
