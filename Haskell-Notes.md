@@ -1,5 +1,16 @@
 #Haskell Notes
 
+- Development Tools
+
+  IDE - haskellmode-vim
+
+  Build tools 
+    - ghc to compile
+    - runghc runs ahaskell progran like a script
+
+
+
+--
 - Functions
 ```haskell
   fac :: Integer -> Integer
