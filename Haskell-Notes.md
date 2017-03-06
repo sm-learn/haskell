@@ -10,7 +10,9 @@
     - haskell API reference - [Hoogle](https://www.haskell.org/hoogle/)
 
 
-
+--
+- Resources
+1. [Leann Haskell in Y mins](https://learnxinyminutes.com/docs/haskell/)
 --
 - Functions
 ```haskell
