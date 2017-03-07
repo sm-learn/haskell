@@ -8,6 +8,9 @@
     - ghc to compile
     - runghc runs ahaskell progran like a script
     - haskell API reference - [Hoogle](https://www.haskell.org/hoogle/)
+    - stack is better than platform tools
+    - [Haskell Tool Stack](https://docs.haskellstack.org/en/stable/README/)
+    
 
 
 --
