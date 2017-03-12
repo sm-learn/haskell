@@ -6,4 +6,4 @@
 - [Hskell Cookbook](https://leanpub.com/haskell-cookbook/read#leanpub-auto-section-1---tutorial)
 - [Haskell Game - Hack Slash](https://github.com/uncannyworks/hack-slash)
 - [Game in Hskell](http://brian.uncannyworks.com/posts/2015-12-26-haskell-game-server-part-1.html)
-- [Game in Hskell Part 2](http://brian.uncannyworks.com/posts/2015-12-26-haskell-game-server-part-2.html)
+- [Game in Hskell Part 2](http://brian.uncannyworks.com/posts/2016-01-01-haskell-game-server-part-2.html)
